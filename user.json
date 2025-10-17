@@ -1,4 +1,6 @@
 {
     "username":"admin",
-    "password":"gamebanut"
+    "password":"gamebanut",
+    "status":true
+
 }
