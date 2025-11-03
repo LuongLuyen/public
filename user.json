@@ -1,10 +1,14 @@
+[
 {
-    "username":"admin",
-    "password":"123456",
+    "username":"Taikhoantest",
+    "password":"taikhoantest",
     "status":true,
     "key":"gamebanut"
-}
-
-
-
-
+},
+{
+    "username":"Taikhoanvip",
+    "password":"taikhoanvip",
+    "status":true,
+    "key":"keyvip"
+},
+]
