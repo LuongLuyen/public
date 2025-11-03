@@ -1,14 +1,16 @@
-[
 {
-    "username":"Taikhoantest",
-    "password":"taikhoantest",
-    "status":true,
-    "key":"gamebanut"
-},
-{
-    "username":"Taikhoanvip",
-    "password":"taikhoanvip",
-    "status":true,
-    "key":"keyvip"
-},
-]
+  "accounts": [
+    {
+      "username": "Taikhoantest",
+      "password": "taikhoantest",
+      "status": true,
+      "key": "chiukhovuotlinklaykey"
+    },
+    {
+      "username": "Taikhoanvip",
+      "password": "taikhoanvip",
+      "status": true,
+      "key": "daylakeyvinhvien"
+    }
+  ]
+}
